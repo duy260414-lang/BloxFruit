@@ -4,7 +4,7 @@ local CURRENT_VERSION = _ENV.Version or "V2"
 local Versions = {
 	V1 = "https://raw.githubusercontent.com/Redz-Roblox/Blox-fruit/refs/heads/main/MAIN.V1",
 	V2 = "https://raw.githubusercontent.com/Redz-Roblox/Blox-fruit/refs/heads/main/MAIN.V2",
-	V3 = "https://pastefy.app/DfRcfh2V/raw",
+	V3 = "https://raw.githubusercontent.com/Redz-Roblox/Blox-fruit/refs/heads/main/Main.v3",
 	V4 = "https://pastefy.app/DfRcfh2V/raw",
 }
 
