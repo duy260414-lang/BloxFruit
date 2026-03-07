@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://xhider.xyz/raw/RedzHub/RQGt4i7"))()
+loadstring(game:HttpGet("https://xhider.xyz/raw/RedzHub/M9G5tlP"))()
