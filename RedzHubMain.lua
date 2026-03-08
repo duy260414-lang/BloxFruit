@@ -2,9 +2,9 @@ local _ENV = (getgenv or getrenv or getfenv)()
 local CURRENT_VERSION = _ENV.Version or "V2"
 
 local Versions = {
-	V1 = "https://raw.githubusercontent.com/Redz-Roblox/Blox-fruit/refs/heads/main/MAIN.V1",
-	V2 = "https://raw.githubusercontent.com/Redz-Roblox/Blox-fruit/refs/heads/main/MAIN.V2",
-	V3 = "https://raw.githubusercontent.com/Redz-Roblox/Blox-fruit/refs/heads/main/Main.v3",
+	V1 = "https://xhider.xyz/raw/RedzHub/Mainv1",
+	V2 = "https://xhider.xyz/raw/RedzHub/Mainv2",
+	V3 = "https://xhider.xyz/raw/RedzHub/Mainv3",
 	V4 = "https://pastefy.app/DfRcfh2V/raw",
 }
 
